@@ -1,5 +1,5 @@
 # bq25910
-![picture](https://www.ti.com/content/dam/ticom/images/products/legacy-boards/b/bq25910evm-854_bq25910evm-854-image-board-1.jpg)
+![picture](https://github.com/charkster/bq25910/blob/master/20181209_153859_HDR.jpg)
 
 Python Class for controlling BQ25910
 
